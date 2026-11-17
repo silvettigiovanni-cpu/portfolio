@@ -952,9 +952,8 @@ const PROJETS_PRO = [
   titreRessources: "Consulter les livrets de stage",
 
   ressources: [
-    // À ajouter quand les documents seront prêts :
-    // { label: "Livret de stage : infirmier", url: "documents/....pdf", apercu: true },
-    // { label: "Livret de stage : aide-soignant", url: "documents/....pdf", apercu: true }
+    { label: "Livret de stage : aide-soignant", url: "documents/livreteas.pdf", apercu: true }
+    { label: "Livret de stage : infirmier", url: "documents/livretesi.pdf", apercu: true },
   ]
 },
 
